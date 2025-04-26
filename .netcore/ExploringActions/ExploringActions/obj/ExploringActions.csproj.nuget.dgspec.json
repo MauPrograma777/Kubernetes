@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ju54d\\OneDrive\\Escritorio\\ExploringActions\\ExploringActions\\ExploringActions.csproj": {}
+    "C:\\repo kubernetes\\Kubernetes\\.netcore\\ExploringActions\\ExploringActions\\ExploringActions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ju54d\\OneDrive\\Escritorio\\ExploringActions\\ExploringActions\\ExploringActions.csproj": {
+    "C:\\repo kubernetes\\Kubernetes\\.netcore\\ExploringActions\\ExploringActions\\ExploringActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ju54d\\OneDrive\\Escritorio\\ExploringActions\\ExploringActions\\ExploringActions.csproj",
+        "projectUniqueName": "C:\\repo kubernetes\\Kubernetes\\.netcore\\ExploringActions\\ExploringActions\\ExploringActions.csproj",
         "projectName": "ExploringActions",
-        "projectPath": "C:\\Users\\ju54d\\OneDrive\\Escritorio\\ExploringActions\\ExploringActions\\ExploringActions.csproj",
+        "projectPath": "C:\\repo kubernetes\\Kubernetes\\.netcore\\ExploringActions\\ExploringActions\\ExploringActions.csproj",
         "packagesPath": "C:\\Users\\ju54d\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ju54d\\OneDrive\\Escritorio\\ExploringActions\\ExploringActions\\obj\\",
+        "outputPath": "C:\\repo kubernetes\\Kubernetes\\.netcore\\ExploringActions\\ExploringActions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
