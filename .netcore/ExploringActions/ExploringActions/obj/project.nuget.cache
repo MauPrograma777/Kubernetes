@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxSQuStQxSt+cXECFJrT39lcQK/reC/arV8yp1WU+Vvd42lky+yGfbI987RosYNb8ga8MKVjAGb2l3CdLl7//Q==",
+  "dgSpecHash": "feQpJfiDDKFp3ELzGXBhUqh4yhFpZ/PHUIuF8NwtwMhu3eGAMimOIE2o3yyS+QNx5mLFtqcVb/0zpNtzp2Lj+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju54d\\OneDrive\\Escritorio\\ExploringActions\\ExploringActions\\ExploringActions.csproj",
+  "projectFilePath": "C:\\repo kubernetes\\Kubernetes\\.netcore\\ExploringActions\\ExploringActions\\ExploringActions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
